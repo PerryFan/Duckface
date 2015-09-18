@@ -36,7 +36,7 @@ public class Sort_array {
    }
    }
 
-    public void sort (int [] Arr)
+    public static void sort (int [] Arr)
     {
         if (Arr.length>1)
         {
